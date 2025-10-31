@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Jimin 👋</h2>
 
-<!--
-**Jiminyang1/Jiminyang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 MCS @ UIUC
+- 💻 Software Engineering / Distributed Systems / LLM Apps
+- 🚀 Projects: RPC-Java, LLM Habit Coach, LC→Anki Chrome Extension
+- 📬 jiminy2@illinois.edu
 
-Here are some ideas to get you started:
+### Skills
+Java · Spring Boot · MySQL · Redis · Kafka · Kubernetes · AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **RPC-Java** — Netty + Zookeeper + LB & Circuit Breaker
+- **LLM Habit Coach** — LangGraph + PGVector, RAG pipeline
+- **LeetCode → Anki** — FSRS scheduling Chrome Extension
