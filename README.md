@@ -2,7 +2,6 @@
 
 - 🎓 MCS @ UIUC
 - 💻 Software Engineering / Distributed Systems / LLM Apps
-- 🚀 Projects: RPC-Java, LLM Habit Coach, LC→Anki Chrome Extension
 - 📬 jiminy2@illinois.edu
 
 ### Skills
