@@ -7,7 +7,3 @@
 ### Skills
 Java · Spring Boot · MySQL · Redis · Kafka · Kubernetes · AWS
 
-### Featured Projects
-- **RPC-Java** — Netty + Zookeeper + LB & Circuit Breaker
-- **LLM Habit Coach** — LangGraph + PGVector, RAG pipeline
-- **LeetCode → Anki** — FSRS scheduling Chrome Extension
