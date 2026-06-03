@@ -1,29 +1,21 @@
-## Hi, I'm Jimin 👋
+# Jimin Yang
 
-MCS @ UIUC. I build at the intersection of **LLM agents**, **full-stack**, and **distributed systems**.
+MCS student at the University of Illinois Urbana-Champaign.
 
----
+I build full-stack products and backend systems, with a focus on LLM agents, developer tools, and distributed infrastructure.
 
-### 🚀 Projects
+My work spans agent orchestration, tool calling, API design, service reliability, caching, containerization, and cloud-native deployment.
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**ankify**](https://github.com/Jiminyang1/ankify) | Spaced repetition for LeetCode — one-click capture, FSRS-6 scheduling, and AI-generated quizzes that adapt to your weak spots | Next.js 16, TypeScript, Drizzle ORM, Better Auth, Chrome Extension |
-| [**minibot**](https://github.com/Jiminyang1/minibot) | Local CLI AI agent — tool calling, MCP server support, session compaction, long-term user memory, and skills on-demand | Python, OpenAI-compatible API |
-| [**Resume-Desk**](https://github.com/Jiminyang1/Resume-Desk) | Local-first resume builder — live PDF preview, export, and PDF-to-builder import | Next.js 13, TypeScript, Redux, Tailwind |
-| [**CityScout**](https://github.com/Jiminyang1/CityScout) | Local business discovery & review platform backend — user auth, listings, vouchers, reviews with caching | Spring Boot, MyBatis-Plus, MySQL, Redis, Docker |
-| [**java-rpc**](https://github.com/Jiminyang1/java-rpc) | Lightweight RPC framework — multiple serialization formats, load balancing, circuit breaking, rate limiting, Zipkin tracing | Java 17, Netty, ZooKeeper |
+## Technical Focus
 
-### 🛠️ What I Work With
+- LLM agents and AI-assisted developer tools
+- Distributed systems, RPC frameworks, caching, and fault-tolerant services
+- Full-stack product engineering from frontend UX to backend architecture
 
-**LLM Agents & Tooling** — Claude · OpenAI · MCP protocol · tool calling · harness engineering · long-term memory systems
+## Stack
 
-**Frontend & Full-stack** — Next.js · React · TypeScript · Tailwind CSS · Redux · Chrome Extensions
+TypeScript, React, Next.js, Python, Java, Spring Boot, MySQL, Redis, Docker, Kubernetes
 
-**Backend & Distributed Systems** — Spring Boot · Java · Netty · ZooKeeper · Kafka · Docker · Kubernetes
+## Links
 
-**Data & Persistence** — MySQL · Redis · Drizzle ORM · MyBatis-Plus · SQLite · Turso
-
----
-
-📫 **Reach me at** jiminy2@illinois.edu
+[LinkedIn](https://www.linkedin.com/in/jimin0707/) · [Email](mailto:jiminy2@illinois.edu)
