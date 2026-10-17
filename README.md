@@ -2,10 +2,12 @@
 
 **MCS @ UIUC** · I build LLM agents, developer tools, and backend systems.
 
+[![Website](https://img.shields.io/badge/jiminyang.com-18181B?style=flat&logo=googlechrome&logoColor=white)](https://jiminyang.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimin0707/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jiminy2@illinois.edu)
 
 - 🔭 Currently building **[minibot-ts](https://github.com/Jiminyang1/minibot-ts)**: a personal AI assistant with tools, memory, skills, schedules, and MCP
+- ✍️ Writing at **[jiminyang.com](https://jiminyang.com)**. Latest: [The loop is 30 lines. The transcript is the hard part.](https://jiminyang.com/blog/building-minibot-agent-runtime)
 - 🌱 Interested in agent orchestration, RPC & distributed systems, and local-first apps
 - 💼 Open to SWE internship and new grad opportunities
 
