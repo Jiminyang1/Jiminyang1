@@ -9,17 +9,18 @@
 - 🔭 Currently building **[minibot-ts](https://github.com/Jiminyang1/minibot-ts)**: a personal AI assistant with tools, memory, skills, schedules, and MCP
 - ✍️ Writing at **[jiminyang.com](https://jiminyang.com)**. Latest: [The loop is 30 lines. The transcript is the hard part.](https://jiminyang.com/blog/building-minibot-agent-runtime)
 - 🌱 Interested in agent orchestration, RPC & distributed systems, and local-first apps
-- 💼 Open to SWE internship and new grad opportunities
+- 💼 Looking for new-grad SWE roles starting 2027
 
 ## 🚀 Featured Projects
 
 | Project | What it does | Built with |
 |---|---|---|
-| [minibot](https://github.com/Jiminyang1/minibot) | Local CLI AI agent with tool calling, MCP, session persistence, and long-term memory | Python |
-| [java-rpc](https://github.com/Jiminyang1/java-rpc) | RPC framework with Netty transport, ZooKeeper registry, pluggable serialization, load balancing, and fault tolerance | Java · Netty · ZooKeeper |
-| [ankify](https://github.com/Jiminyang1/ankify) | Spaced repetition for LeetCode: one-click capture, FSRS-6 scheduling, AI-generated quizzes | TypeScript |
-| [Resume-Desk](https://github.com/Jiminyang1/Resume-Desk) | Local-first resume builder with live PDF preview, export, and PDF import | Next.js · TypeScript |
-| [CityScout](https://github.com/Jiminyang1/CityScout) | Local business discovery & review platform backend | Spring Boot · MySQL · Redis · Docker |
+| [ankify](https://github.com/Jiminyang1/ankify) | Spaced repetition for LeetCode: one-click capture of problems and submissions, FSRS-6 scheduling, AI quizzes built from your own mistakes · [live app](https://ankify-pi.vercel.app) | TypeScript · Next.js · Chrome MV3 |
+| [minibot-ts](https://github.com/Jiminyang1/minibot-ts) | Personal AI assistant on your own machine: tools, long-term memory, skills, MCP, unattended scheduled tasks | TypeScript · pi-agent-core · MCP |
+| [liveclip](https://github.com/Jiminyang1/liveclip) | Live-follow auto clipping for streamers: transcribe, let Claude pick moments, cut 9:16 clips with QA while the stream runs | Python · ffmpeg · Claude |
+| [CityScout](https://github.com/Jiminyang1/CityScout) | Flash-sale ordering backend at 5,000 TPS on one VM: Redis Lua reservation, Kafka async writes, explicit recovery | Java · Spring Boot · Redis · Kafka |
+
+More at **[jiminyang.com/projects](https://jiminyang.com/projects)**.
 
 ## 🧰 Stack
 
