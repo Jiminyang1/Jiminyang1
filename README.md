@@ -1,6 +1,6 @@
 # Hi, I'm Jimin 👋
 
-**MCS @ UIUC** · I build LLM agents, developer tools, and backend systems.
+**MCS @ UIUC** · I build AI agents and the backend & distributed systems they run on.
 
 [![Website](https://img.shields.io/badge/jiminyang.com-18181B?style=flat&logo=googlechrome&logoColor=white)](https://jiminyang.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimin0707/)
